@@ -5,12 +5,12 @@ This repository is initiated by the final project of **MECHENG 599 - Applied Opt
 
 Disclaimer: This is **NOT** a research project. Some part might not be rigorous and suggestions are welcomed.
 
-**MPC-DC**
+**MPC-DC (N=25)**
 <p align="center">
   <img alt="Image 1" src="animation/mpc_dc_N25.gif" width="80%" />
 </p>
 
-**MPC-CBF**
+**MPC-CBF (N=25, γ = 0.8)**
 <p align="center">
   <img alt="Image 1" src="animation/mpc_cbf_N25_gamma0.8.gif" width="80%" />
 </p>
