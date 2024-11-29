@@ -7,12 +7,12 @@ Disclaimer: This is **NOT** a research project. Some part might not be rigorous 
 
 **MPC-DC (N=25)**
 <p align="center">
-  <img alt="Image 1" src="animation/mpc_dc_N25.gif" width="80%" />
+  <img alt="Image 1" src="animation/mpc_dc_N25.gif" width="75%" />
 </p>
 
 **MPC-CBF (N=25, γ = 0.8)**
 <p align="center">
-  <img alt="Image 1" src="animation/mpc_cbf_N25_gamma0.8.gif" width="80%" />
+  <img alt="Image 1" src="animation/mpc_cbf_N25_gamma0.8.gif" width="75%" />
 </p>
 
 
